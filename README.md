@@ -2,7 +2,7 @@
 
 ## 🛡️ Cybersecurity Analyst
 
-I am a cybersecurity-focused professional with an interest in SOC operations, access control, and secure systems. I enjoy analyzing security-related problems, working with Linux environments, and building Python-based tools that support secure and process-driven environments.
+I am a cybersecurity-focused with an interest in SOC operations, access control, and secure systems. I enjoy analyzing security-related problems, working with Linux environments, and building Python-based tools that support secure and process-driven environments.
 
 ---
 
@@ -12,6 +12,7 @@ I am a cybersecurity-focused professional with an interest in SOC operations, ac
 - Secure Coding Practices
 - Digital Forensics Fundamentals
 - Penetration Testing
+- Ethical Hacking
 
 ---
 
