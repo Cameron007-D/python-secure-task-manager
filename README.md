@@ -34,4 +34,4 @@ A Python-based application implementing user authentication, role-based access c
 
 ## 📫 Contact
 - Email: cameronct95@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/cameron-davhana/
+- LinkedIn: https://www.linkedin.com/in/cameron-davhana-072ba81b5
